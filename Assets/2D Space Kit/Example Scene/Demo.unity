@@ -12627,7 +12627,7 @@ MonoBehaviour:
   acceleration_amount: 38
   rotation_speed: 29
   turret: {fileID: 648232120}
-  turret_rotation_speed: 3
+  turret_rotation_speed: 39
 --- !u!50 &2084752108
 Rigidbody2D:
   serializedVersion: 5
